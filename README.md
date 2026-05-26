@@ -54,7 +54,7 @@ habit-tracker/
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/me-schedule.png" width="400"/>
+      <img src="screenshots/my-schedule.png" width="400"/>
       <br/>
       <b>✅ Habit Grid: Weekly Tracking View</b>
     </td>
