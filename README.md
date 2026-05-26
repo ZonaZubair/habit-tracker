@@ -47,3 +47,21 @@ habit-tracker/
 - Persists everything to `localStorage` across reloads
 - Responsive from 360px phones to 1440px+ desktops
 - Keyboard accessible throughout
+```
+
+## 🖼️ UI Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/me-schedule.png" width="400"/>
+      <br/>
+      <b>✅ Habit Grid: Weekly Tracking View</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/empty-state.png" width="400"/>
+      <br/>
+      <b>🌱 Empty State — Getting Started</b>
+    </td>
+  </tr>
+</table>
