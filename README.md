@@ -30,7 +30,7 @@ No npm install, no build, no config. Clone the repo and open the file.
 
 ```
 habit-tracker/
-├── index.html     # Entire app — HTML, CSS, JS in one file
+├── index.html     # Entire app: HTML, CSS, JS in one file
 ├── README.md
 └── ANSWERS.md
 ```
