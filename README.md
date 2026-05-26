@@ -52,10 +52,19 @@ habit-tracker/
 
 ## 🖼️ UI Screenshots
 
-### 🌱 Empty State — Getting Started
-<img src="screenshots/empty-state.png" width="700"/>
-
-### ✅ Habit Grid: Weekly Tracking View
-<img src="screenshots/my-schedule.png" width="700"/>
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/empty-state.png" width="400"/>
+      <br/>
+      <b>Empty State - Getting Starte</b>
+    </td>
+    <td colspan="2" align="center">
+      <img src="screenshots/my-schedule.png" width="400"/>
+      <br/>
+      <b>Habit Grid: Weekly Tracking View</b>
+    </td>
+  </tr>
+</table>
 
 
