@@ -54,14 +54,14 @@ habit-tracker/
 <table>
   <tr>
     <td align="center">
+      <img src="screenshots/empty-state.png" width="400"/>
+      <br/>
+      <b>🌱 Empty State — Getting Starte</b>
+    </td>
+    <td align="center">
       <img src="screenshots/my-schedule.png" width="400"/>
       <br/>
       <b>✅ Habit Grid: Weekly Tracking View</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/empty-state.png" width="400"/>
-      <br/>
-      <b>🌱 Empty State — Getting Started</b>
     </td>
   </tr>
 </table>
