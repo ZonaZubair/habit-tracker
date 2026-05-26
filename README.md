@@ -22,7 +22,7 @@ npx serve .
 
 No npm install, no build, no config. Clone the repo and open the file.
 
-**Deployed URL:** *(https://habbittrackr.netlify.app/)*
+**Deployed URL:** *(https://1daily-habit-tracker.netlify.app/)*
 
 ---
 
@@ -52,19 +52,10 @@ habit-tracker/
 
 ## 🖼️ UI Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="screenshots/empty-state.png" width="400"/>
-      <br/>
-      <b>Empty State - Getting Starte</b>
-    </td>
-    <td align="center">
-      <img src="screenshots/my-schedule.png" width="400"/>
-      <br/>
-      <b>Habit Grid: Weekly Tracking View</b>
-    </td>
-  </tr>
-</table>
+### Empty State - Getting Started
+<img src="screenshots/empty-state.png" width="700"/>
+
+### Habit Grid: Weekly Tracking View
+<img src="screenshots/my-schedule.png" width="700"/>
 
 
