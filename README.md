@@ -47,7 +47,8 @@ habit-tracker/
 - Persists everything to `localStorage` across reloads
 - Responsive from 360px phones to 1440px+ desktops
 - Keyboard accessible throughout
-```
+
+---
 
 ## 🖼️ UI Screenshots
 
