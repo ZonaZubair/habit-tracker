@@ -22,7 +22,7 @@ npx serve .
 
 No npm install, no build, no config. Clone the repo and open the file.
 
-**Deployed URL:** *(add Vercel/Netlify URL here after deploy)*
+**Deployed URL:** *(https://habbittrackr.netlify.app/)*
 
 ---
 
